@@ -59,6 +59,3 @@ Welcome to the HotShot Template for a Blogging Website! This project provides a 
 
 Feel free to fork this repository and contribute by submitting a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
