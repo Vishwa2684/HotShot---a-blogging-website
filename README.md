@@ -2,11 +2,15 @@
 
 Welcome to the HotShot Template for a Blogging Website! This project provides a full-stack solution for a blogging platform, featuring a React frontend and a Strapi backend.
 
+## Note
+- It is not a fully functioning blogging website
+
 ## Prerequisites
 
 - **Node.js**: Ensure you have Node.js version 20.15.0 installed.
 
 ## Getting Started
+- Here's [strapi documentation](https://docs.strapi.io/dev-docs/quick-start)
 
 ### Frontend Setup
 
