@@ -1,0 +1,53 @@
+.mainFlex{
+    display: flex;
+    flex-direction: column;
+}
+
+.logoDesign{
+    display: flex;
+    align-items: center;
+}
+.logoDesign img{
+    
+    border-radius: 80%;
+    height: 50px;
+    width: 50px;
+}
+
+.contain{
+   
+    display: flex;
+    gap: 1rem;
+    min-height: 250vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box{
+    /* border: 1px solid rgb(243, 238, 238); */
+    /* box-shadow: rgba(239, 239, 239, 0.15) 0px 48px 100px 0px; */
+    width: 80%;
+    border-radius: 18px;
+    min-height: 70%;
+} 
+
+.box p{
+    width: 80%;
+}
+
+.imgFlex{
+    display: flex;
+    align-items: center;
+}
+
+.imgFlex img{
+    height: 40vh;
+
+}
+
+#wel{
+    border-radius: 50%;
+}
+  
