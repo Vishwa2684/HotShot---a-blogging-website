@@ -14,9 +14,9 @@ export default function NavBar(){
               HotShot &#128521;
             </Typography>
           </div>
-          <Box ml="auto">
+          {/* <Box ml="auto">
         <Button variant="contained" color="secondary" href="/login">Login</Button>
-          </Box>
+          </Box> */}
         </Toolbar>
       </AppBar>
     </div>  

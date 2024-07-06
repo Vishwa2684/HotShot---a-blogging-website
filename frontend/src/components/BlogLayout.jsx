@@ -155,7 +155,7 @@ const BlogLayout = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://localhost:1337/api/blogs", {
+        const response = await axios.get("http://localhost:1337/api/blogs?populate=*", {
           headers: {
             Authorization: `Bearer ${import.meta.env.VITE_STRAPI}`
           }
